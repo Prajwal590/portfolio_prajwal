@@ -10,8 +10,7 @@
 ---
 
 ## 🌐 Live Demo
-https://your-actual-vercel-link.vercel.app
-
+https://portfolio-prajwal-seven.vercel.app/
 ---
 
 ## 👤 About the Developer
