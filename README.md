@@ -120,7 +120,7 @@ This project was built using AI-assisted development.
 
 ### Tools Used
 - ChatGPT (OpenAI)
-- Antigravity (Google DeepMind)
+- Claude ai
 
 ### How AI Helped
 - Generated initial project structure (React + Vite setup)
@@ -130,8 +130,8 @@ This project was built using AI-assisted development.
 - Suggested UI/UX improvements using Tailwind CSS
 
 ### Code Contribution
-- AI-generated: ~85–90%
-- Manually written/modified: ~10–15%
+- AI-generated: ~75–80%
+- Manually written/modified: ~20–25%
 
 ### Understanding of Code
 Yes, I have reviewed and understood all AI-generated code.  
