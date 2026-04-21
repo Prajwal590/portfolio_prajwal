@@ -26,7 +26,7 @@ https://portfolio-prajwal-seven.vercel.app/
 
 ---
 
-## ✨ Features
+## ✨ Features.
 
 ### Public Portfolio
 - **Home** — Hero with typewriter (Full Stack Developer / AI Engineer / React.js Specialist / FastAPI Developer / LLM/RAG Builder), real bio, skills grouped by category, experience timeline (Brightpath → JSpider → Rooman), VTU education card, CTA
