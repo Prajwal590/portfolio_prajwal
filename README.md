@@ -1,5 +1,5 @@
 # Prajwal Marapur — Personal Portfolio & Blog Management System
-//
+
 > Production-quality personal portfolio + CMS built with React, Vite, and Tailwind CSS.
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react)](https://reactjs.org)
